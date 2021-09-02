@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/CrashCourseSelenium-main.iml" filepath="$PROJECT_DIR$/.idea/CrashCourseSelenium-main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Task11/Task11.iml" filepath="$PROJECT_DIR$/Task11/Task11.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Task12/Task12.iml" filepath="$PROJECT_DIR$/Task12/Task12.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Task13/Task13.iml" filepath="$PROJECT_DIR$/Task13/Task13.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Task13/Task13 (2).iml" filepath="$PROJECT_DIR$/Task13/Task13 (2).iml" />
+      <module fileurl="file://$PROJECT_DIR$/Task14/Task14.iml" filepath="$PROJECT_DIR$/Task14/Task14.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Task15/Task15.iml" filepath="$PROJECT_DIR$/Task15/Task15.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Task16/Task16.iml" filepath="$PROJECT_DIR$/Task16/Task16.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Task6/Task6.iml" filepath="$PROJECT_DIR$/Task6/Task6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Task7/Task7.iml" filepath="$PROJECT_DIR$/Task7/Task7.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Task8/Task8.iml" filepath="$PROJECT_DIR$/Task8/Task8.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Task9/Task9.iml" filepath="$PROJECT_DIR$/Task9/Task9.iml" />
+    </modules>
+  </component>
+</project>
